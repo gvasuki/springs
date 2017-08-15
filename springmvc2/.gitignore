@@ -4,6 +4,7 @@
 # Log file
 *.log
 *.target
+*.classpath
 
 # BlueJ files
 *.ctxt
