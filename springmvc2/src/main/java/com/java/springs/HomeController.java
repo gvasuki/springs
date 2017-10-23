@@ -36,4 +36,8 @@ public class HomeController {
 		return "home";
 	}
 	
+	public void home2(){
+		System.out.print(" Hello World!!");
+	}
+	
 }
