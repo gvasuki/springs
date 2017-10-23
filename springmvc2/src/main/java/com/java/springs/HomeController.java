@@ -37,7 +37,7 @@ public class HomeController {
 	}
 	
 	public void home2(){
-		System.out.print(" Hello World!!");
+		System.out.print(" Spring rest controller!!");
 	}
 	
 }
